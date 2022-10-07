@@ -3932,7 +3932,18 @@
        "singer": ["Mohit Chauhan"],
        "genre": ["Romantic","Indian Film Pop"],
        "link": "https://www.youtube.com/watch?v=mt9xg0mmt28"
+    },
+    {
+       "id": 226,
+       "name": "ik lamha",
+       "lyrics": "https://lyricsknow.com/ik-lamha-lyrics-azaan-sami-khan/",
+       "album": "ik lamha",
+       "Duration": "5 min 21 sec",
+       "singer": ["Azaan"],
+       "genre": ["Romantic"],
+       "link": "https://www.youtube.com/watch?v=J7ck984Qhso"
     }
+    
     
     ]
     
